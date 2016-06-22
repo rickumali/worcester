@@ -1,4 +1,4 @@
-This is a simple adding game in PHP.
+This is a simple multiplication game in PHP.
 
 WARNING:
 
