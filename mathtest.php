@@ -9,7 +9,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
   $val2 = $_POST["val2"];
   $answer = $_POST["answer"];
   if ($val1 * $val2 == $answer) {
-    echo "<p>Got the last one right!</p>";
+    echo "<p>Got the last product right!</p>";
     $val1 = rand(1, 10);
     $val2 = rand(1, 10);
   } else {
